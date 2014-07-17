@@ -1,0 +1,14 @@
+body {
+   background-image: url("http://media.giphy.com/media/ci96prC4eZNUQ/giphy.gif");
+   color : white;
+}
+
+img {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+h1 {
+  text-align: center;
+}
